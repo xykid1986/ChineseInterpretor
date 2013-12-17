@@ -14,4 +14,8 @@ public class DigestChinese {
 		Narration narration = new Narration();
 		
 	}
+	
+	private void digestStatement(String input){
+		
+	}
 }
