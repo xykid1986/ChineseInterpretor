@@ -1,2 +1,2 @@
-ChineseInterpretor change it first
+ChineseInterpretor change it first from git package
 ==================
